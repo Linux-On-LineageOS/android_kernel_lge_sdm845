@@ -189,3 +189,4 @@ obj-$(CONFIG_TSPDRV) += tspdrv/
 
 # Mobicore
 obj-$(CONFIG_TRUSTONIC_TEE) += gud/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
